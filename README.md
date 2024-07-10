@@ -16,4 +16,6 @@ This project is a Telegram bot that scrapes the latest project updates from [Sii
    ```sh
    git clone https://github.com/fahrimuham/bot-tele.git
    cd bot-tele
-   
+2. **Install packages:**
+   ```
+   npm install axios cheerio node-telegram-bot-api
