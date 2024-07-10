@@ -1,5 +1,3 @@
-# bot-tele
-Telegram bot which is useful for providing automatic comic update information from siikomik.com
 # Siikomik Project Updates Telegram Bot
 
 This project is a Telegram bot that scrapes the latest project updates from [Siikomik](https://siikomik.com/) and sends notifications to a specified Telegram chat. The bot checks for new updates every 10 seconds and sends the latest chapter information if an update is detected.
